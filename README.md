@@ -19,4 +19,6 @@ If you want to learn more about creating good readme files then refer the follow
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
 - [Chakra Core](https://github.com/Microsoft/ChakraCore)
 _______________________________________
-Update from feature branch -1.0
+Update from feature branch -1.
+_______________________________________
+Update from feature-2 branch -1.1
